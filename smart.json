@@ -3,7 +3,7 @@
   "description": "Recurrency calculator basedo on RFC5445 for Meteor",
   "homepage": "https://github.com/opinsky/meteor-rrule",
   "author": "Oren Pinsky",
-  "version": "0.1",
+  "version": "0.0.1",
   "git": "https://github.com/opinsky/meteor-rrule.git"
 }
 
